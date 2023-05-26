@@ -1,4 +1,4 @@
-# Quarkus demo: Amazon SSM Client
+# Demonstração do Quarkus: Amazon SSM Client
 
 This example showcases how to use the AWS SSM client with Quarkus. As a prerequisite install [AWS Command line interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
 
