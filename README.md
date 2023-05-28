@@ -4,7 +4,7 @@ Este exemplo mostra como usar o cliente AWS SSM com o Quarkus. Como pré-requisi
 
 # Instância local do AWS SSM
 
-Just run it as follows in order to start SSM locally:
+Basta executá-lo da seguinte maneira para iniciar o SSM localmente:
 
 `docker run --rm --name local-ssn -p 8014:4583 -e SERVICES=ssm -e START_WEB=0 -d localstack/localstack:0.11.1`
 
