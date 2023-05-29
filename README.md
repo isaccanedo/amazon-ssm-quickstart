@@ -33,7 +33,7 @@ curl -XPUT -H"Content-type: text/plain" "http://localhost:8080/sync/secure?secur
 curl -XPUT -H"Content-type: text/plain" "http://localhost:8080/sync/plain" -d"stored as plain text"
 ```
 
-## List all parameters
+## Listar todos os parâmetros
 You can now list the parameters you added:
 
 ```
