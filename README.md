@@ -8,7 +8,7 @@ Basta executá-lo da seguinte maneira para iniciar o SSM localmente:
 
 `docker run --rm --name local-ssn -p 8014:4583 -e SERVICES=ssm -e START_WEB=0 -d localstack/localstack:0.11.1`
 
-SSM listens on `localhost:8014` for REST endpoints.
+O SSM escuta em `localhost:8014` para endpoints REST.
 
 Create an AWS profile for your local instance using AWS CLI:
 
