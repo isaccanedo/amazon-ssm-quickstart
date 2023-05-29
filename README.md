@@ -34,7 +34,7 @@ curl -XPUT -H"Content-type: text/plain" "http://localhost:8080/sync/plain" -d"st
 ```
 
 ## Listar todos os parâmetros
-You can now list the parameters you added:
+Agora você pode listar os parâmetros adicionados:
 
 ```
 curl http://localhost:8080/sync
