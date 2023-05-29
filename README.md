@@ -20,7 +20,7 @@ Default region name [None]: us-east-1
 Default output format [None]:
 ```
 
-# Run the demo on dev mode
+# Execute a demonstração no modo dev
 
 - Run `./mvnw clean package` and then `java -Dparameters.path=/quarkus/is/awesome/ -jar ./target/quarkus-app/quarkus-run.jar`
 - In dev mode `./mvnw clean quarkus:dev -Dparameters.path=/quarkus/is/awesome/`
