@@ -25,7 +25,7 @@ Default output format [None]:
 - Run `./mvnw clean package` and then `java -Dparameters.path=/quarkus/is/awesome/ -jar ./target/quarkus-app/quarkus-run.jar`
 - In dev mode `./mvnw clean quarkus:dev -Dparameters.path=/quarkus/is/awesome/`
 
-## Set some parameters
+## Defina alguns parâmetros
 First, add as many paramters as you like using the following patterns for secure and plain parameters:
 
 ```
