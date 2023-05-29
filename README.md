@@ -10,7 +10,7 @@ Basta executá-lo da seguinte maneira para iniciar o SSM localmente:
 
 O SSM escuta em `localhost:8014` para endpoints REST.
 
-Create an AWS profile for your local instance using AWS CLI:
+Crie um perfil da AWS para sua instância local usando a AWS CLI:
 
 ```
 $ aws configure --profile localstack
