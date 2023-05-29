@@ -26,7 +26,7 @@ Default output format [None]:
 - In dev mode `./mvnw clean quarkus:dev -Dparameters.path=/quarkus/is/awesome/`
 
 ## Defina alguns parâmetros
-First, add as many paramters as you like using the following patterns for secure and plain parameters:
+Primeiro, adicione quantos parâmetros quiser usando os seguintes padrões para parâmetros simples e seguros:
 
 ```
 curl -XPUT -H"Content-type: text/plain" "http://localhost:8080/sync/secure?secure=true" -d"stored as cipher text"
