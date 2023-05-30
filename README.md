@@ -40,8 +40,7 @@ Agora você pode listar os parâmetros adicionados:
 curl http://localhost:8080/sync
 ```
 
-You should see output like this:
-
+Você deve ver uma saída como esta:
 ```
 {"plain":"stored as plain text","secure":"stored as cipher text"}
 ```
