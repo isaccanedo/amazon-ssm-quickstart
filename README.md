@@ -45,7 +45,7 @@ Você deve ver uma saída como esta:
 {"plain":"stored as plain text","secure":"stored as cipher text"}
 ```
 
-## Test the async endpoints
+## Testar os endpoints assíncronos
 Replace `sync` with `async` in the examples above to test the asynchronous endpoints.
 
 # Running in native
