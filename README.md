@@ -48,7 +48,7 @@ Você deve ver uma saída como esta:
 ## Testar os endpoints assíncronos
 Replace `sync` with `async` in the examples above to test the asynchronous endpoints.
 
-# Running in native
+# Executnado em nativo
 
 You can compile the application into a native binary using:
 
