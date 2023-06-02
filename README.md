@@ -61,7 +61,7 @@ and run with:
 
 # Executando nativo no contêiner
 
-Build a native image in container by running:
+Crie uma imagem nativa no contêiner executando:
 
 `./mvnw clean package -Pnative -Dnative-image.docker-build=true`
 
