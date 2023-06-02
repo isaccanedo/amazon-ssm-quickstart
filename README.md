@@ -59,7 +59,7 @@ and run with:
 `./target/amazon-ssm-quickstart-1.0.0-SNAPSHOT-runner -Dparameters.path=/quarkus/is/awesome/` 
 
 
-# Running native in container
+# Executando nativo no contêiner
 
 Build a native image in container by running:
 
