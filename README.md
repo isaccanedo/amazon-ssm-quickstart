@@ -69,7 +69,7 @@ Crie uma imagem do docker:
 
 `docker build -f src/main/docker/Dockerfile.native -t quarkus/amazon-ssm-quickstart .`
 
-Create a network that connect your container with localstack:
+Crie uma rede que conecte seu container com localstack:
 
 `docker network create localstack`
 
