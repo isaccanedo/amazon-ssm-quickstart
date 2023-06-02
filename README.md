@@ -50,7 +50,7 @@ Replace `sync` with `async` in the examples above to test the asynchronous endpo
 
 # Executnado em nativo
 
-You can compile the application into a native binary using:
+Você pode compilar o aplicativo em um binário nativo usando:
 
 `./mvnw clean install -Pnative`
 
