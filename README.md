@@ -54,7 +54,7 @@ Você pode compilar o aplicativo em um binário nativo usando:
 
 `./mvnw clean install -Pnative`
 
-and run with:
+e correr com:
 
 `./target/amazon-ssm-quickstart-1.0.0-SNAPSHOT-runner -Dparameters.path=/quarkus/is/awesome/` 
 
