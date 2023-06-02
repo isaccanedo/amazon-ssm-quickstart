@@ -65,7 +65,7 @@ Crie uma imagem nativa no contêiner executando:
 
 `./mvnw clean package -Pnative -Dnative-image.docker-build=true`
 
-Build a docker image:
+Crie uma imagem do docker:
 
 `docker build -f src/main/docker/Dockerfile.native -t quarkus/amazon-ssm-quickstart .`
 
