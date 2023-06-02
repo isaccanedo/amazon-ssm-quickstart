@@ -46,7 +46,7 @@ Você deve ver uma saída como esta:
 ```
 
 ## Testar os endpoints assíncronos
-Replace `sync` with `async` in the examples above to test the asynchronous endpoints.
+Substitua `sync` por `async` nos exemplos acima para testar os endpoints assíncronos.
 
 # Executnado em nativo
 
