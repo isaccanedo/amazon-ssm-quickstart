@@ -77,7 +77,7 @@ Pare seu contêiner localstack que você iniciou no início:
 
 `docker stop local-ssm`
 
-Start localstack and connect to the network:
+Inicie o localstack e conecte-se à rede:
 
 `docker run --rm --network=localstack --name localstack -p 8014:4583 -e SERVICES=ssm -e START_WEB=0 -d localstack/localstack:0.11.1`
 
