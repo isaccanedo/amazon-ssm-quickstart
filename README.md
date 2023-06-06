@@ -81,6 +81,6 @@ Inicie o localstack e conecte-se à rede:
 
 `docker run --rm --network=localstack --name localstack -p 8014:4583 -e SERVICES=ssm -e START_WEB=0 -d localstack/localstack:0.11.1`
 
-Run quickstart container connected to that network (note that we're using internal port of the localstack):
+Execute o contêiner de início rápido conectado a essa rede (observe que estamos usando a porta interna do localstack):
 
 `docker run -i --rm --network=localstack -p 8080:8080 -e QUARKUS_SSM_ENDPOINT_OVERRIDE="http://localstack:4583" -e PARAMETERS_PATH="/quarkus/is/awesome/" quarkus/amazon-ssm-quickstart`
